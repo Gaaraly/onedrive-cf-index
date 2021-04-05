@@ -2,7 +2,7 @@ name = "od"
 type = "webpack"
 workers_dev = true
 account_id = "c02367f81d279ca64168e6cb11e1816c"
-zone_id = "1f631f1c79dedd5e08fb38a425818700"
+zone_id = "bdd7415316858aaf414842fc0290981f"
 kv_namespaces = [
     { binding = "BUCKET", id = "0a32e67b4fe742989679506fca0b0dea", preview_id = "28c51798875a4868b3c7c59b1ce21bdd"}
 ]
